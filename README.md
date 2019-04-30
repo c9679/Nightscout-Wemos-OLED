@@ -23,7 +23,8 @@ https://github.com/PaulStoffregen/Time
 https://github.com/ThingPulse/esp8266-oled-ssd1306
 
 
-The Wemos I used which I dont even know if its a real Wemos product was on ebay for £10, it includes a battery holder and oled 0.96" screen
+The Wemos I used which I dont even know if its a real Wemos product was on ebay for £10, it includes a battery holder and oled 0.96" screen, it was from these guys https://enigma-shop.com/index.php?option=com_hikashop&ctrl=product&task=show&cid=1009&name=wemos-esp-8266-board-with-0-96-oled-and-battery
+
 
 
 I havent tested the battery voltage measurement, I believe you need a 470k resistor between the battery and the A0 pin, I dont have
