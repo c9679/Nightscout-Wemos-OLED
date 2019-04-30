@@ -1,13 +1,13 @@
 # Nightscout-Wemos-OLED
 Nightscout blood sugar display on a Wemos with an oled display
-
+ <br />
 All credit and thanks goes to the original project by robjohnc at https://github.com/robjohnc/nightscout_wemos_epaper
-
+ <br />
 This is a modified version to work on a Wemos with an oled display.
-
+ <br />
 This my first project with Arduino and with the Wemos, so code can probably be tidied up or made more efficient. Sorry :)
-
-You will require the following libraries:-
+ <br />
+You will require the following libraries:- <br />
 https://github.com/PaulStoffregen/Time
 https://github.com/bblanchon/ArduinoJson - Older version required below 6
 https://github.com/PaulStoffregen/Time
