@@ -12,8 +12,11 @@ This my first project with Arduino and with the Wemos, so code can probably be t
 
 
 You will require the following libraries:-
+
 https://github.com/PaulStoffregen/Time
+
 https://github.com/bblanchon/ArduinoJson - Older version required below 6
+
 https://github.com/PaulStoffregen/Time
 
 
