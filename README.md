@@ -36,9 +36,9 @@ Anyway hope someone finds this useful
 
 1. Setup Arduino
 2. Download libraries and drivers
-  - Cant quite remember all the steps in this process, I just know I have the following lines in my Arduino preferences
-  - http://arduino.esp8266.com/stable/package_esp8266com_index.json
-  - https://dl.espressif.com/dl/package_esp32_index.json
+    - Cant quite remember all the steps in this process, I just know I have the following lines in my Arduino preferences
+       http://arduino.esp8266.com/stable/package_esp8266com_index.json
+       https://dl.espressif.com/dl/package_esp32_index.json
 3. Change Wifi details 
 4. Add your Nightscout URL and SHA fingerprint and if needed the screen pins e.g "SSD1306Wire  display(0x3c, D1, D2);"
 5. Change sleeptime for the number of minutes between checks of the site default is every 5 minutes
