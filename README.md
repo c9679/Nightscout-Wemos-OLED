@@ -1,9 +1,9 @@
 # Nightscout-Wemos-OLED
 Nightscout blood sugar display on a Wemos with an oled display
 
-![alt text](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/WemosOLED.jpg)
+![Wemos with Integrated OLED](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/WemosOLED.jpg)
 
-![alt text](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/Mini.jpg)
+![Wemos with seperate OLED](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/Mini.jpg)
 
 All credit and thanks goes to the original project by robjohnc at https://github.com/robjohnc/nightscout_wemos_epaper
 
