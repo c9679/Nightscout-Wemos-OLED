@@ -54,3 +54,4 @@ GND = GND
 SCL = D4
 
 SDA = D3
+![alt text](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/Mini.jpg)
