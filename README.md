@@ -44,3 +44,13 @@ Anyway hope someone finds this useful
 4. Add your Nightscout URL and SHA fingerprint and if needed the screen pins e.g "SSD1306Wire  display(0x3c, D1, D2);"
 5. Change sleeptime for the number of minutes between checks of the site default is every 5 minutes
 6. Upload the sketch I have the board set to "LOLIN(WEMOS) D1 R2 & mini"
+
+Note: On the smaller version with just the Wemos and the oled, I changed the code "SSD1306Wire  display(0x3c, D1, D2);" to "SSD1306Wire  display(0x3c, D3, D4);" and I connected as follows:-
+
+VCC = 3v3
+
+GND = GND
+
+SCL = D4
+
+SDA = D3
