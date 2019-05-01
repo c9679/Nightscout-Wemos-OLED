@@ -3,6 +3,8 @@ Nightscout blood sugar display on a Wemos with an oled display
 
 ![alt text](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/WemosOLED.jpg)
 
+![alt text](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/Mini.jpg)
+
 All credit and thanks goes to the original project by robjohnc at https://github.com/robjohnc/nightscout_wemos_epaper
 
 
@@ -54,4 +56,4 @@ GND = GND
 SCL = D4
 
 SDA = D3
-![alt text](https://raw.githubusercontent.com/c9679/Nightscout-Wemos-OLED/master/Mini.jpg)
+
